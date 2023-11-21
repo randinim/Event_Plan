@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/JAR Files-20231006T072059Z-001/JAR Files 2/javax.servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/JAR Files-20231006T072059Z-001/JAR Files 2/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/JAR Files-20231006T072059Z-001/JAR Files 2/jsp-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/JAR Files-20231006T072059Z-001/JAR Files 2/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/JAR Files-20231006T072059Z-001/JAR Files 2/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
